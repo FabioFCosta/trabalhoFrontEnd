@@ -11,7 +11,7 @@ Turma 1 - Petrópolis
 
 # Integrantes:
 - Fabiano Rodrigues
-- Fábio Freitas
+- Fabio Freitas
 - Francarlo Fogaça
 - Gabriel Bassan
 - Larissa Araujo
